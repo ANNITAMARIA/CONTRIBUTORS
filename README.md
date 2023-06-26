@@ -1,4 +1,4 @@
-# Contributors :female-technologist:|:male-technologist:
+# Contributors
 - Alena [
 @Alena
 ](https://github.com/alenapuzach)
