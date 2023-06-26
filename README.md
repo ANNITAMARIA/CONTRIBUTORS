@@ -21,4 +21,4 @@
 @Neiman Phillips
 ](https://github.com/bull-in-the-heather)
 - Victor [@vick627](https://github.com/vick627)
-- Volha [@voliatalatynik](https://github.com/voliatalatynik)# CONTRIBUTORS
+- Volha [@voliatalatynik](https://github.com/voliatalatynik)
